@@ -1,0 +1,125 @@
+      body {
+            background-color: #101d42;
+            color: #ffffff;
+
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-top: 5%;
+    
+        }
+        .header {
+            font-family: 'Montserrat', sans-serif;
+        }
+        .header h1{
+            margin-bottom: -2%;
+        }
+        .header h2{
+            margin-bottom: -2%;
+        }
+        hr{
+            border:1px solid #ff5d8f;
+        }
+
+        a:link {
+            color: #ff5d8f;
+            background-color: transparent;
+            text-decoration: none;
+          }
+          
+          a:visited {
+            color: #ff5d8f;
+            background-color: transparent;
+            text-decoration: none;
+          }
+
+        .disruptive_technology{
+            margin-bottom: 3%;
+        }
+        .disruptive_technology h2,h3{
+            font-family: 'Montserrat', sans-serif;
+        }
+        .disruptive_technology p{
+            font-family: 'Poppins', sans-serif;
+            text-align: justify;
+            margin-left: 5%;
+        }
+        .disruptive_technology ul{
+            font-family: 'Poppins', sans-serif;
+            margin-left: 3%;
+            text-decoration: none;
+        }
+
+
+        .ecommerce h1 , h2{
+            font-family: 'Montserrat', sans-serif;
+        }
+        .ecommerce p{
+            font-family: 'Poppins', sans-serif;
+            text-align: justify;
+            margin-left: 5%;
+        }
+        .ecommerce ol{
+            font-family: 'Poppins', sans-serif;
+            margin-left: 3%;
+            line-height: 16px;
+        }
+        .ecommerce{
+            margin-bottom: 3%;
+        }
+
+
+        .before_ecommerce{
+            margin-bottom: 3%;
+        }
+        .before_ecommerce h1,h4{
+            font-family: 'Montserrat', sans-serif;
+        }
+        .before_ecommerce p{
+            font-family: 'Poppins', sans-serif;
+            text-align: justify;
+            margin-left: 5%;
+        }
+
+        .e-commerce_today{
+            margin-bottom: 3%;
+        }
+        .e-commerce_today h1,h2{
+            font-family: 'Montserrat', sans-serif;
+        }
+        .e-commerce_today p{
+            font-family: 'Poppins', sans-serif;
+            text-align: justify;
+            margin-left: 5%;
+        }
+        .e-commerce_today ul,ol{
+            font-family: 'Poppins', sans-serif;
+            margin-left: 3%;
+            line-height: 16px;
+        }
+
+
+        .conclusion{
+            margin-bottom: 3%;
+        }
+        .conclusion h1,h2{
+            font-family: 'Montserrat', sans-serif;
+        }
+        .conclusion h4,h5,h6{
+            font-family: 'Montserrat', sans-serif;
+            font-size: large;
+        }
+        .conclusion p{
+            font-family: 'Poppins', sans-serif;
+            text-align: justify;
+            margin-left: 5%;
+        }
+        .conclusion li{
+            font-family: 'Poppins', sans-serif;
+            margin-left: 3%;
+            line-height: 20px;
+        }
+
+
+
+        .REFERENCES li{
+            list-style: none;
